@@ -1,3 +1,9 @@
+[tool.poetry]
+name = "instagram-server"
+version = "0.1.0"
+description = ""
+authors = ["yourname"]
+
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
 flask = "^3.0.0"
